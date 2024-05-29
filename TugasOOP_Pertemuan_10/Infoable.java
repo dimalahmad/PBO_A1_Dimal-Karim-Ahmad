@@ -1,0 +1,3 @@
+interface Infoable {
+    void info();
+}
